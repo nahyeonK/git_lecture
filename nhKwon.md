@@ -25,4 +25,4 @@ System.out.println("Hello");
 -릴케-
 </pre>
 
-![Alt text](/path/0801.jpg)
+![Image](/path/0801.jpg)
